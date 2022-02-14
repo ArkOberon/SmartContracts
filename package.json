@@ -1,0 +1,19 @@
+{
+  "name": "smartcontractpractice",
+  "version": "1.0.0",
+  "description": "This is a practice with SmartContracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.2.0",
+    "solc": "^0.8.11",
+    "web3": "^1.7.0"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
